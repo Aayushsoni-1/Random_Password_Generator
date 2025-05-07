@@ -28,9 +28,9 @@ This simple, modern, and customizable password generator lets you quickly create
 
 ---
 
-## 📁 Project Structure
+## 📁 Folder Structure
 
-```Project Structure 
+```Folder Structure 
 ├── index.html      # Main HTML structure
 ├── style.css       # CSS for layout, styling, and responsiveness
 ├── script.js       # JavaScript for logic and interactivity
